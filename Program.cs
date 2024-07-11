@@ -20,6 +20,8 @@ namespace Fibonacci
             int firstNum = 0, secondNum = 1, thirdNum;
 
 
+
+
             Console.WriteLine("Enter the length of fibonacci number: ");
             myNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("The series is: ");
